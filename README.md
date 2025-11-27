@@ -145,4 +145,3 @@ A Vercel detectará automaticamente essas configurações.
 - Design mobile-first
 - Navegação por teclado
 - Labels ARIA apropriados
-
